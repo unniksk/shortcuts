@@ -15,7 +15,9 @@ Shortcut      | Description
 ------------- | -------------
 ⌘ O           | Find class or file by name
 ^ Space| Basic Code Completion
-
+⌥⌘c| Extract Constant
+⌥⌘v| Extract variable
+ 
 
 
 
