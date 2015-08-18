@@ -20,12 +20,11 @@ Shortcut      | Description
  ⌘ /                            | (un)comment lines
 ⌥ ⌘ /                           |(un)comment block
 ⌘ P                          |   brings method parameters
-^ H |inheritance hierarchy for a selected class  
-
-⌘ ,                  |           project & IDE settings
-⌘ ;                   |          project structure
-F1                     |         Quick Documentation
-⌥ Space                 |        Quick definition (of class / method etc.)
+^ H |inheritance hierarchy for a selected class 
+⌘ , |           project & IDE settings
+⌘ ; |          project structure
+F1  |         Quick Documentation
+⌥ Space |        Quick definition (of class / method etc.)
 
 
 
