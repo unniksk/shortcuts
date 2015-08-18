@@ -17,6 +17,8 @@ Shortcut      | Description
 ^ Space| Basic Code Completion
 ⌥⌘C| Extract Constant
 ⌥⌘V| Extract variable
+⌥⌘F| Extract Field
+⌥⌘M| Extract method
  ⌘ /                            | (un)comment lines
 ⌥ ⌘ /                           |(un)comment block
 ⌘ P                          |   brings method parameters
@@ -25,6 +27,9 @@ Shortcut      | Description
 ⌘ ; |          project structure
 F1  |         Quick Documentation
 ⌥ Space |        Quick definition (of class / method etc.)
+⌘ F12    | Show all methods in class
+⇧⌘ B | Go to implementation
+⇧ F6 | Refactor - Rename
 
 
 
