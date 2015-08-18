@@ -14,6 +14,7 @@
 Shortcut      | Description
 ------------- | -------------
 ⌘ O           | Find class or file by name
+⌘ ⇧ O           | Go to file
 ^ Space| Basic Code Completion
 ⌥⌘C| Extract Constant
 ⌥⌘V| Extract variable
@@ -23,6 +24,7 @@ Shortcut      | Description
 ⌥ ⌘ /                           |(un)comment block
 ⌘ P                          |   brings method parameters
 ^ H |inheritance hierarchy for a selected class 
+⌘ ⇧ H | Method hierarchy
 ⌘ , |           project & IDE settings
 ⌘ ; |          project structure
 F1  |         Quick Documentation
@@ -30,6 +32,23 @@ F1  |         Quick Documentation
 ⌘ F12    | Show all methods in class
 ⇧⌘ B | Go to implementation
 ⇧ F6 | Refactor - Rename
+^ R | Run Code
+^ D | Debug Code
+^⇧ R | Run Code with configuration
+^⇧ D | Debug Code with configurtion
+^⌥ O | Optimize  imports
+^⌥ I | Auto Indent
+⌘ ⇧ U | Toggle Case of word
+⌘ ⇧ F | Find in path
+⌘ ⇧ R | Replace in path
+⌥ F7 | Find usages
+⌘ ⇧ F7 | Highlight usages in file
+F8 |Step over
+F7 |Step into
+⌘⌥R |  Resume program 
+ ⌘ F8 |Toggle breakpoint 
+ ⌘ ⇧ F8 |View breakpoints
+ ⌘ L | Go to line
 
 
 
