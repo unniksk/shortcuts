@@ -1,10 +1,7 @@
-Intellij community edition shortcuts
+#Intellij community edition shortcuts
 
 
-For MAC
-
-
-
+##For MAC
 
 
 
@@ -25,4 +22,7 @@ For MAC
 
 
 
-For Linux
+
+
+
+##For Linux
