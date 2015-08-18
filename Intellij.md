@@ -15,11 +15,17 @@ Shortcut      | Description
 ------------- | -------------
 ⌘ O           | Find class or file by name
 ^ Space| Basic Code Completion
-⌥⌘c| Extract Constant
-⌥⌘v| Extract variable
- 
+⌥⌘C| Extract Constant
+⌥⌘V| Extract variable
+ ⌘ /                            | (un)comment lines
+⌥ ⌘ /                           |(un)comment block
+⌘ P                          |   brings method parameters
+^ H |inheritance hierarchy for a selected class  
 
-
+⌘ ,                  |           project & IDE settings
+⌘ ;                   |          project structure
+F1                     |         Quick Documentation
+⌥ Space                 |        Quick definition (of class / method etc.)
 
 
 
