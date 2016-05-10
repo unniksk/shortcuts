@@ -49,6 +49,7 @@ F7 |Step into
  ⌘ F8 |Toggle breakpoint 
  ⌘ ⇧ F8 |View breakpoints
  ⌘ L | Go to line
+  ⌘ ⇧ U | Toggle Case
 
 
 
