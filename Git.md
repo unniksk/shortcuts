@@ -1,21 +1,21 @@
 ### Show branches present on local but not on remote
-git remote prune origin --dry-run
+```git remote prune origin --dry-run```
  
 ### Prune
-git remote prune origin
+```git remote prune origin```
 
-#### git pull development (or whatever is the base branch)
+#### ```git pull development``` (or whatever is the base branch)
 
 #### Delete all local branches which have been merged to the current(*, the branch currently you are in) branch
-git branch --merged | grep -v "\*" | xargs -n 1 git branch -D
+```git branch --merged | grep -v "\*" | xargs -n 1 git branch -D```
 
-
-How can we use prepare-commit-msg to solve our problem?
+*How can we use prepare-commit-msg to solve our problem?*
 
     As per our development process the name of the feature branch must be the ISSUE_ID of the JIRA Project
     The format of the commit message is ISSUE_ID+:.+
     Since the branch name is same as that of the ISSUE_ID we can prepend the branch name to the commit message
     We can write a prepare-commit-msg hook script as below
+ 
 ```	
 #!/bin/sh
 #
