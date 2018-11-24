@@ -1,7 +1,7 @@
-#Intellij community edition shortcuts
+# Intellij community edition shortcuts
 
 
-##For MAC
+## For MAC
 
 ^ Control
 
