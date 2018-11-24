@@ -21,7 +21,8 @@ Shortcut      | Description
 ⌥⌘F| Extract Field
 ⌥⌘M| Extract method
  ⌘ /                            | (un)comment lines
-⌥ ⌘ /                           |(un)comment block
+⌃⇧/   | (un) comment block of code
+
 ⌘ P                          |   brings method parameters
 ^ H |inheritance hierarchy for a selected class 
 ⌘ ⇧ H | Method hierarchy
@@ -32,6 +33,8 @@ F1  |         Quick Documentation
 ⌘ F12    | Show all methods in class
 ⇧⌘ B | Go to implementation
 ⇧ F6 | Refactor - Rename
+⌃⇧Space | Used after the new keyword, to instantiate an object of the expected type
+⌘ P | Valid parameter of a method or constructor
 ^ R | Run Code
 ^ D | Debug Code
 ^⇧ R | Run Code with configuration
@@ -50,6 +53,8 @@ F7 |Step into
  ⌘ ⇧ F8 |View breakpoints
  ⌘ L | Go to line
   ⌘ ⇧ U | Toggle Case
+
+  
 
 
 
