@@ -22,7 +22,6 @@ Shortcut      | Description
 ⌥⌘M| Extract method
  ⌘ /                            | (un)comment lines
 ⌃⇧/   | (un) comment block of code
-
 ⌘ P                          |   brings method parameters
 ^ H |inheritance hierarchy for a selected class 
 ⌘ ⇧ H | Method hierarchy
@@ -34,7 +33,7 @@ F1  |         Quick Documentation
 ⇧⌘ B | Go to implementation
 ⇧ F6 | Refactor - Rename
 ⌃⇧Space | Used after the new keyword, to instantiate an object of the expected type
-⌘ P | Valid parameter of a method or constructor
+⌘P | Valid parameter of a method or constructor
 ^ R | Run Code
 ^ D | Debug Code
 ^⇧ R | Run Code with configuration
